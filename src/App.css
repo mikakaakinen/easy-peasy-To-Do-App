@@ -1,0 +1,40 @@
+body {
+  background-color: #fefefe;
+}
+
+.buttonA {
+  width: 10rem;
+  color: #000;
+  background-color: gold;
+}
+
+.fontsizeA {
+  color: #fff;
+  display: inline;
+  font-size: 0.9rem;
+}
+
+.widthA {
+  width: 6rem;
+}
+
+.heightA {
+  min-height: 60vh;
+}
+
+p {
+  color: #000;
+}
+
+h4 {
+  color: #000;
+  display: inline;
+}
+
+.margin-right {
+  margin-right: 0.5rem;
+}
+
+.margin-bottom {
+  margin-bottom: 0.5rem;
+}
